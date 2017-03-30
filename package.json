@@ -1,0 +1,19 @@
+{
+  "name": "trial",
+  "version": "1.0.0",
+  "description": "the test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "meow",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "latest",
+    "inert": "latest",
+    "request": "request",
+    "mocha": "latest",
+    "chai": "latest"
+  }
+}
